@@ -1,0 +1,6 @@
+D:\IS\LASTYEAR\Programmation Client-Serveur COMHAIRE\Repos\TestGit\TestImportfromLamizor\obj\x86\Debug\TestImportFromLamizor.csproj.AssemblyReference.cache
+D:\IS\LASTYEAR\Programmation Client-Serveur COMHAIRE\Repos\TestGit\TestImportfromLamizor\obj\x86\Debug\TestImportFromLamizor.csproj.CoreCompileInputs.cache
+D:\IS\LASTYEAR\Programmation Client-Serveur COMHAIRE\Repos\TestGit\TestImportfromLamizor\bin\Debug\ConsoleApplication.exe
+D:\IS\LASTYEAR\Programmation Client-Serveur COMHAIRE\Repos\TestGit\TestImportfromLamizor\bin\Debug\ConsoleApplication.pdb
+D:\IS\LASTYEAR\Programmation Client-Serveur COMHAIRE\Repos\TestGit\TestImportfromLamizor\obj\x86\Debug\ConsoleApplication.exe
+D:\IS\LASTYEAR\Programmation Client-Serveur COMHAIRE\Repos\TestGit\TestImportfromLamizor\obj\x86\Debug\ConsoleApplication.pdb
