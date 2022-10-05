@@ -72,6 +72,9 @@
   <ItemGroup>
     <Compile Include="CodeFile1.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Capturise.PNG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
   <ProjectExtensions>
     <VisualStudio AllowExistingFolder="true" />
