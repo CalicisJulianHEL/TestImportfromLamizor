@@ -7,6 +7,7 @@ namespace TestImportFromLamizor
     private static void Main()
     {
       Console.WriteLine("Coucou Programme");
+      Console.WriteLine("Je suis Lamizor");
       Console.ReadLine();
     }
   }
